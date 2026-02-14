@@ -1,4 +1,4 @@
-def count_upper(st):
+def count_upper(st : str) -> int:
     count = 0
     for c in st:
         if c.isupper():
