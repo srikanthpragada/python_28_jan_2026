@@ -9,6 +9,8 @@ class Counter:
         self.value += 1
 
     def decrement(self):
+        if self.value == 0:
+            raise ValueError("Cannot decrement when value is 0")
         self.value -= 1
 
     def getvalue(self):
