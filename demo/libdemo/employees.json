@@ -1,0 +1,12 @@
+[
+  { "empno": 1001, "empname": "Alice Johnson",   "salary": 55000 },
+  { "empno": 1002, "empname": "Bob Smith",       "salary": 62000 },
+  { "empno": 1003, "empname": "Charlie Brown",   "salary": 48000 },
+  { "empno": 1004, "empname": "Diana Prince",    "salary": 75000 },
+  { "empno": 1005, "empname": "Ethan Hunt",      "salary": 68000 },
+  { "empno": 1006, "empname": "Fiona Gallagher", "salary": 53000 },
+  { "empno": 1007, "empname": "George Miller",   "salary": 47000 },
+  { "empno": 1008, "empname": "Hannah Lee",      "salary": 59000 },
+  { "empno": 1009, "empname": "Ian Wright",      "salary": 61000 },
+  { "empno": 1010, "empname": "Julia Roberts",   "salary": 72000 }
+]
