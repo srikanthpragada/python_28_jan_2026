@@ -23,3 +23,6 @@ links = bs.find_all('a')
 for link in links:
     print(link['href'])
 
+
+
+
